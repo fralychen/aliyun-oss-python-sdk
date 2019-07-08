@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-class SelectParameters(object):  # Select API中参数名常量，参数名是大小写敏感的。具体含义参加api.py中的介绍
+class SelectParameters(object):  # Select API中参数名常量，参数名是大小写敏感的。具体含义参考api.py中的介绍
     CsvHeaderInfo = 'CsvHeaderInfo'
     CommentCharacter = 'CommentCharacter'
     RecordDelimiter = 'RecordDelimiter'
